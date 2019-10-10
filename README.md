@@ -1,4 +1,4 @@
-# ios-todolist-final
+# iOS ToDoList Final App
 Final app for making a ToDoList App for the iPhone
 
 This is the final implementation of the iPhone application shown in the demo for iOS App in a nutshell presentation.
